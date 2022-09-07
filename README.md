@@ -1,6 +1,6 @@
 # Replicating SOLC bug
 
-The below outlines how to replicate the solc issue here:
+The below outlines how to replicate the solc issue here: https://github.com/ethereum/solc-js/issues/654
 
 ## Steps to replicate
 
